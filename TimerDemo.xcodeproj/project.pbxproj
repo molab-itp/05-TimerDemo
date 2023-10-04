@@ -19,6 +19,7 @@
 		AB21030C29A342FD008C89F2 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		AB21030E29A342FE008C89F2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AB21031129A342FE008C89F2 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		ABF80AB02ACDA8C60007CCD1 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -35,6 +36,7 @@
 		AB2102FE29A342FD008C89F2 = {
 			isa = PBXGroup;
 			children = (
+				ABF80AB02ACDA8C60007CCD1 /* README.md */,
 				AB21030929A342FD008C89F2 /* TimerDemo */,
 				AB21030829A342FD008C89F2 /* Products */,
 			);
